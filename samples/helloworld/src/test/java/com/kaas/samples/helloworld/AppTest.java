@@ -1,4 +1,4 @@
-package com.kaas.samples;
+package com.kaas.samples.helloworld;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
