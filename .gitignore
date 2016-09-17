@@ -1,2 +1,6 @@
 #IntelliJ
 *.?ml
+.classpath
+.project
+.settings/
+target/
