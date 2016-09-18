@@ -1,6 +1,7 @@
 #IntelliJ
-*.?ml
+*.iml
 .classpath
 .project
 .settings/
+.idea/
 target/
