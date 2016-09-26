@@ -11,9 +11,9 @@ Knowleged as a Service
   * Twitter: [@drodriguezhdez](https://twitter.com/drodriguezhdez)
   * Linkedin: https://es.linkedin.com/in/danielrodriguezhernandez
 * **Jose Luis Rodriguez Villapecellin**: Java Software Architech & Agile Supporter
-  * Contact: (TO BE FILLED)
-  * Twitter: (TO BE FILLED)
-  * Linkedin: (TO BE FILLED)
+  * Contact: jlr.villapecellin@gmail.com
+  * Twitter: [@jlrv](https://twitter.com/jlrv)
+  * Linkedin: https://es.linkedin.com/in/joseluisrodriguezvillapecellin
   
   
 
